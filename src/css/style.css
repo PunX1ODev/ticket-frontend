@@ -1,0 +1,12 @@
+.fullscreen {
+  height: 100vh;
+}
+
+scroll-container {
+  display: block;
+  margin: 2% auto;
+  width: 100%;
+  height: 250px;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
